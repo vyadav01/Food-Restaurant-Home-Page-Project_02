@@ -13,9 +13,9 @@ In this, I have learned about **CSS position, background-image, and linear-gredi
 
 It took me 3 hours to complete this project.
 
-**[Live Project's netlify link](https://street-style-landing-page-project-01.netlify.app/ "Project link")**
+**[Live Project's netlify link](https://food-restaurant-project-02.netlify.app/ "Project link")**
 
-[![Project ScreenShot](./css-project-02-done.png)](https://street-style-landing-page-project-01.netlify.app/ "Project link")
+[![Project ScreenShot](./css-project-02-done.png)](https://food-restaurant-project-02.netlify.app/ "Project link")
 
 
-[![Badge](https://img.shields.io/badge/Project__02-Food%20Restaurant%20Home%20Page-yellow)](https://street-style-landing-page-project-01.netlify.app/ "Project link")
+[![Badge](https://img.shields.io/badge/Project__02-Food%20Restaurant%20Home%20Page-yellow)](https://food-restaurant-project-02.netlify.app/ "Project link")

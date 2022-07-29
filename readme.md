@@ -7,7 +7,7 @@ This project is a part of the **Full Stack Javascript** course by ineuron.ai. It
 
 ### **What I have learned ?**
 
-In this, I have learned about **CSS position, background-image, and linear-gredient**, how to set overlay on background image.
+In this, I have learned about **CSS position, background-image, and linear-gredient proprerties**, and used them to set overlay on background image.
 
 ### **Time spent to finish it.**
 

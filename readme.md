@@ -13,6 +13,9 @@ In this, I have learned about **CSS position, background-image, and linear-gredi
 
 It took me 3 hours to complete this project.
 
+**Note :** This project is not optimized for mobile yet.
+
+
 **[Live Project's netlify link](https://food-restaurant-project-02.netlify.app/ "Project link")**
 
 [![Project ScreenShot](./css-project-02-done.png)](https://food-restaurant-project-02.netlify.app/ "Project link")
